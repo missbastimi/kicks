@@ -3,7 +3,7 @@ import sprite from "../assets/sprite.svg";
 const Header = () => {
   return (
     <header className="w-full flex justify-center bg-[#FAFAFA] py-4">
-      <div className="w-[80%] w-[1320px] 
+      <div className=" w-[1320px] 
         bg-white border border-gray-200 rounded-2xl shadow-sm 
         px-6 py-8 p-8 m-4 flex  justify-between">
 
