@@ -1,14 +1,16 @@
 import sprite from "../assets/sprite.svg";
-import { useState, Activity } from "react";
+// import { useState, Activity } from "react";
 import react from "react";
-import ItemCard from "./itemCard";
+// import ItemCard from "./itemCard";
 
 const Header = () => {
-  const [searchBarVisible, setSearchBarVisible] = useState(false);
+  // useState for SearchBar Visibility
+  // const [searchBarVisible, setSearchBarVisible] = useState(false);
 
-  function searchBar(searchBarVisible) {
-    setSearchBarVisible(!searchBarVisible);
-  }
+  // function to toggle search bar visibility
+  // function searchBar(searchBarVisible) {
+  //   setSearchBarVisible(!searchBarVisible);
+  // }
 
   const items = [{ text: "Item 1" }, { text: "Item 2" }, { text: "Item 3" }];
 
