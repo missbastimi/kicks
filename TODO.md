@@ -1,0 +1,3 @@
+- [ ] Fix 'justify-space-between' to 'justify-between' in landindPage.jsx
+- [ ] Fix first 'p-8rem' to 'p-[8rem]' in landindPage.jsx
+- [ ] Fix second 'p-8rem' to 'p-[8rem]' in landindPage.jsx
