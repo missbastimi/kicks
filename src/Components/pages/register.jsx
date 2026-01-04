@@ -9,7 +9,7 @@ function register() {
   return (
     <>
     {/* main Container */}
-    <div className=' bg-[#E7E7E3] justify-center items-center mx-auto'>
+    <div className=' bg-[#E7E7E3] w-fit  justify-center items-center mx-auto gap-[47px]'>
       {/* body */}
       <div className='w-[1295px] h-[953px]  gap-[20px]  flex'>
         {/* inputs */}

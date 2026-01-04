@@ -26,7 +26,7 @@ const LandingPage = () => {
   return (
     <>
     {/* main container */}
-    <div className="w-[1440px] h-4765px] bg-[#E7E7E3] justify-center items-center mx-auto flex flex-col gap-[5rem]">
+    <div className="w-[1440px]  bg-[#E7E7E3] justify-center items-center mx-auto flex flex-col gap-[5rem]">
       
       {/* hero */}
         <div className="  w-[82.5rem] h-[65rem] relative flex flex-col   gap-1.5 ">
@@ -85,7 +85,7 @@ const LandingPage = () => {
             {/* text */}
             <div className="relative flex  w-[1320px] h-[140px] justify-between ">
                <p className="absolute left-0 w-[589px] h-[140px] font-rubik font-semibold text-[74px] leading-[95%] tracking-[0px] uppercase text-[#232321]">Don’t miss out new drops</p>
-            <button className="absolute right-0 rounded-[8px] pt-[8px]  py-[8px] px-[4px]  gap-[4px] font-rubik font-semibold text-[18px] leading-[100%] tracking-normal top-0 uppercase bg-green-500"><p>Shop Newdrops</p></button></div>
+            <button className="absolute right-0 rounded-[8px] pt-[8px]  py-[8px] px-[4px]  gap-[4px] font-rubik font-semibold text-[18px] leading-[100%] tracking-normal top-0 uppercase bg-[#4A69E2]"><p>Shop Newdrops</p></button></div>
       
         <ul className="grid grid-cols-4 gap-8 ">
         {shoeImagesArray.map((shoe) => (

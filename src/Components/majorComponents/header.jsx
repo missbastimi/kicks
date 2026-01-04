@@ -102,7 +102,7 @@ const Header = () => {
             </li>
 
             {/* User */}
-             <div className={`  w-56 rounded-xl border border-gray-200 bg-white shadow-md  ${authVisible ? `block `: `hidden`}`} >
+             <div className={`absolute -bottom-35  w-56 rounded-xl border border-gray-200 bg-white shadow-md  ${authVisible ? `block `: `hidden`}`} >
               <div className="flex flex-col gap-2 p-4">
     
    <Link to="/login">
